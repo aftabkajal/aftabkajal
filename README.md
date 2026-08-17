@@ -112,29 +112,3 @@ Currently, I'm also exploring **AI Engineering, LLM applications, Semantic Kerne
 
 ---
 
-# 💼 Featured Projects
-
-## 🤖 Sustainability AI Assistant
-
-An AI-powered enterprise assistant designed to interact with sustainability data using natural language.
-
-### Architecture
-
-```text
-User Question
-      ↓
-Intent Resolution
-      ↓
-Schema Selection
-      ↓
-SQL Generation
-      ↓
-SQL Safety Validation
-      ↓
-PostgreSQL
-      ↓
-Context Assembly
-      ↓
-LLM
-      ↓
-Natural Language Response
