@@ -6,7 +6,7 @@ I'm a **Senior Software Engineer with 8+ years of experience** specializing in b
 
 I build scalable and maintainable systems using **C#, ASP.NET Core, .NET, PostgreSQL, MongoDB, Docker, Kubernetes**, and modern cloud-native technologies.
 
-Currently, I'm also exploring **AI Engineering, LLM applications, Semantic Kernel, RAG, and Text-to-SQL** to bring AI capabilities into real-world enterprise systems.
+Currently, I'm also exploring **AI Engineering, AI-assisted development, LLM applications, Semantic Kernel, RAG, and Text-to-SQL** to bring AI capabilities into real-world enterprise systems.
 
 ---
 
