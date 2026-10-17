@@ -14,7 +14,7 @@ I'm also exploring **AI engineering and LLM-powered applications**, including Se
 
 ## 🚀 About Me
 
-- 💻 8+ years of professional software engineering experience
+- 💻 9+ years of professional software engineering experience
 - ⚙️ Backend development with **C#, .NET, ASP.NET Core, and Entity Framework Core**
 - 🎨 Full-stack development with **Angular, TypeScript, and JavaScript**
 - 🏗️ Software architecture: **Microservices, Clean Architecture, CQRS, and DDD**
